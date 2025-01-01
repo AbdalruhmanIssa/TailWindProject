@@ -1,0 +1,22 @@
+# Node.js modules
+node_modules/
+
+# Tailwind output files
+src/output.css
+dist/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
